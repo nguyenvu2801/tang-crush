@@ -1,19 +1,18 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    introTitle: 'Bé iuu à!',
+    introDesc: `anh zới bé cx đc 2 tháng goỳ á
+    anh iu bé lắmmm lun áaaaaa :>
+    nên a làm cáiiii nàyyy(handmade) để bé bic aiu bé nnao 🙄🙄
+    btnIntro: '😏🤮',
+    title: 'tháng qua thì có nhiều lúc a làm bé bùn íaaaa thì cho a xin lũiii nheeee🥺🥺',
+    desc: 'nhiều lúc còn như thg điên dở dở hâm hâm nma trong lòng a vx iu bé lắm á😙😙 ',
+    btnYes: 'uhm vâng😏',
+    btnNo: 'khong🙄',
+    question:'Trên thế giới hơn 7 tỉ người mà sao em lại iu anhhh :>',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    reply: 'be iu của anh iu anh nhấc màaaaa :>',
+    mess: 'Anh biết có người mún nhắn ghec vs vâng hay gì mà nma hok cóa đc âu hehe🙄🙄 Yêu be nhiều nhiều 😘😘',
+    messDesc: 'iuuuuuuu lắmmmm ạaaaaaa moazzzz😍😍',
+    btnAccept: 'iuuu anh',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
