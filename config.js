@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Bé iuu à!',
-    introDesc: `anh zới bé cx đc 2 tháng goỳ á ',
-    anh iu bé lắmmm lun áaaaaa :> ',
+    introDesc: `anh zới bé cx đc 2 tháng goỳ á 
+    anh iu bé lắmmm lun áaaaaa :> 
     nên a làm cáiiii nàyyyy(handmade) để bé bic aiu bé nnao 🙄🙄 ',
     btnIntro: '😏🤮',
     title: 'tháng qua thì có nhiều lúc a làm bé bùn íaaaa thì cho a xin lũiii nheeee🥺🥺',
