@@ -5,7 +5,7 @@ const CONFIG = {
     nên a làm cáiiii nàyyyy(handmade) để bé bic a iu bé nnao 🙄🙄`,
     btnIntro: '😏🤮',
     title: 'tháng qua thì có nhiều lúc a làm bé bùn íaaaa thì cho a xin lũiii nheeee🥺🥺',
-    desc: 'nhiều lúc còn như thg điên dở dở hâm hâm nma trong lòng a vx iu bé lắm á😙😙',
+    desc: 'nhiều lúc còn như thg điên dở dở hâm hâm nma trong lòng a vx iu bé lắm á😙😙 ',
     btnYes: 'uhm vâng😏',
     btnNo: 'khong🙄',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại iu anhhh :>',
